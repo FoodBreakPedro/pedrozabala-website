@@ -64,8 +64,29 @@ function About() {
           <span id="bio">About Me</span> <br />
 
         </h2>
-        <p>
-          I'm an innovative, passionate, transparent, analytical, and inclusive person. I value respect, clear communication, growth, and cooperation. My experiences in the world of software development have taught me that being a leader is not about having the answers to everything but instead having the ability to recognize the strengths and weaknesses of those around you and empower them to succeed. Rewarding smart risks as much as success, praising others for being forthcoming on challenges they may face, and working together to find appropriate solutions. I hope to have more opportunities to demonstrate these skills and inspire others to be the best version of themselves.
+        <p className='text-indent'>
+          I hold a degree on Information Technology from the
+          Florida International University where I specialized on mobile application development
+          experience for iOS and database administration. I'm currently working on my MBA from Capella University
+          where I'm focusing on analytics, digital marketing, and general management. My experiences in
+          the world of software development have taught me that being a leader is not about having
+          the answers to everything but instead having the ability to recognize the strengths
+          and weaknesses of those around you and empower them to succeed.
+
+        </p><p className='text-indent'>
+          I'm an innovative, passionate, transparent, analytical, and inclusive person who values
+          respect, clear communication, growth, and cooperation. I often attribute my career path,
+          problem solving skills, attention to details, and strategic
+          planning to the fact that I could relate anything to video games and how they work.
+           I'm the type of gamer who enjoys challenges and achievements
+          as well as learning and analyzing mechanics so that I can help others improve
+          their gaming skills.
+
+        </p><p className='text-indent'>
+
+          On my free time I enjoy watching and keeping up with the latest movies, social media and music
+          trends but this can be quite difficult since unfortunately we only have 24 hours in a day. Occasionally,
+          I also spent time practicing my photography skills.
         </p>
       </div>
     </>
